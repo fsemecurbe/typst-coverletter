@@ -212,7 +212,7 @@
   mainbody
 
   set text(11pt, font: font-info, fill: primary-colour, weight: "regular")
-  [Sincerely,\ ]
+  [Dans l’attente de votre réponse, je vous prie de croire, Madame, Monsieur, en l’expression de mes salutations distinguées.,\ ]
   v(1pt)
   [*#name*]
 }
